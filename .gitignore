@@ -2,9 +2,4 @@ node_modules
 npm-debug.log*
 yarn-error.log*
 lerna-debug.log*
-/packages/*/es
-/packages/*/umd
-/packages/*/index.js
-/packages/*/lib
 /foo.js
-
